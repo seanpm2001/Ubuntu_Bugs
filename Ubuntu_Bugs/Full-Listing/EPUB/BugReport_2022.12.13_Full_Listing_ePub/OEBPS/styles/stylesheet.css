@@ -1,0 +1,86 @@
+.para4 {
+  margin:  0.0972in 0px 0.0835in 0px;
+}
+
+.para2 {
+  margin:  0.1390in 0px 0.0835in 0px;
+}
+
+.para1 {
+  margin:  0.1665in 0px 0.0835in 0px;
+}
+
+.para3 {
+  margin:  0px 0px 0px 0px;
+}
+
+.para0 {
+  border-bottom: 0.2pt double #808080;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  margin:  0.0000in 0px 0.1965in 0px;
+}
+
+.span4 {
+  font-family: 'Ubuntu Condensed';
+  font-size: 16.0000pt;
+  font-weight: bold;
+}
+
+.span6 {
+  font-weight: normal;
+}
+
+.span5 {
+  font-family: 'Liberation Sans';
+  font-size: 16.0000pt;
+  font-weight: bold;
+}
+
+.span3 {
+  font-family: 'Ubuntu';
+  font-size: 16.0000pt;
+  font-weight: bold;
+  text-decoration:  underline;
+}
+
+.span2 {
+  font-family: 'Ubuntu';
+  font-size: 16.0000pt;
+  font-weight: bold;
+}
+
+.span8 {
+  font-weight: bold;
+}
+
+.span7 {
+  font-family: 'Liberation Sans';
+  font-size: 14.0000pt;
+  font-weight: bold;
+}
+
+.span1 {
+  font-family: 'Ubuntu Light';
+  font-size: 18.0000pt;
+  font-weight: bold;
+}
+
+.span9 {
+  font-family: 'Liberation Mono';
+  font-weight: normal;
+}
+
+.span0 {
+  font-family: 'URW Gothic';
+  font-size: 18.0000pt;
+  font-weight: bold;
+}
+
+.body0 {
+  -epub-writing-mode: horizontal-tb;
+  -webkit-writing-mode: horizontal-tb;
+  direction: ltr;
+  writing-mode: horizontal-tb;
+}

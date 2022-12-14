@@ -1,0 +1,43 @@
+.para2 {
+  margin:  0px 0px 0px 0px;
+}
+
+.para1 {
+  margin:  0.0972in 0px 0.0835in 0px;
+}
+
+.para0 {
+  margin:  0.1390in 0px 0.0835in 0px;
+}
+
+.span4 {
+  font-family: 'Liberation Mono';
+  font-weight: normal;
+}
+
+.span3 {
+  font-weight: bold;
+}
+
+.span1 {
+  font-family: 'Liberation Sans';
+  font-size: 14.0000pt;
+  font-weight: bold;
+}
+
+.span2 {
+  font-weight: normal;
+}
+
+.span0 {
+  font-family: 'Liberation Sans';
+  font-size: 16.0000pt;
+  font-weight: bold;
+}
+
+.body0 {
+  -epub-writing-mode: horizontal-tb;
+  -webkit-writing-mode: horizontal-tb;
+  direction: ltr;
+  writing-mode: horizontal-tb;
+}
