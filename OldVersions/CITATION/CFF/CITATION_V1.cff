@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this project (Ubuntu bug report data) please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Seanpm2001 Ubuntu bug report collection repository"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2022-12-14
+# Date the repository was created
+url: "https://github.com/seanpm2001/Ubuntu-Bugs/"
+cff-version: 1.2.0
+message: "If you use this project (Ubuntu bug report data) please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: ""
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+# Date of the creation of the citation file
+date-released: 2022-12-14
+url: "https://github.com/seanpm2001/Ubuntu-Bugs/"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Seanpm2001 Ubuntu bug report collection repository"
+  month: 12
+  start: 1 # First page number
+  end: 100000 # Last page number
+  title: "A homepage repository for the bugs in Ubuntu I have discovered. Citing this publication can be done in 2 ways: either citing the entire repository itself, or just the individual bugs. Please mention this in your citation."
+  issue: 1
+  volume: 1
+  year: 2022
+# File info
+# File version: 1 (2022, Wednesday, December 14th at 10:02 pm PST)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 46
