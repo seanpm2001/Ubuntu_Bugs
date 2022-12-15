@@ -1,0 +1,1 @@
+Myrick family, S. P. M. (2022). A homepage repository for the bugs in Ubuntu I have discovered. Citing this publication can be done in 2 ways: either citing the entire repository itself, or just the individual bugs. Please mention this in your citation. [Data set]. https://doi.org/10.0000/00000
